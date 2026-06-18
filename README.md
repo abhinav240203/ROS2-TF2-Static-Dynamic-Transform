@@ -1,7 +1,7 @@
-````markdown
 # Simple TF Kinematics (ROS 2)
 
-This project is a ROS 2 Python node that simulates a moving robot using TF (transform) frames. It publishes static and dynamic transforms and provides a service to query transforms between frames.
+This project is a ROS 2 Python node that simulates a moving robot using TF (transform) frames
+It publishes static and dynamic transforms and provides a service to query transforms between frames.
 
 ---
 
